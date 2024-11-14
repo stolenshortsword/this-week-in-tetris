@@ -1,7 +1,10 @@
 [no ctwc events more than a month out]
 
-Tetris Friendlies Revolution - December 27-28
+ADD ON DEC 11
 CTWC 2 Boston 2 Parity - Jan 11
+
+ADD ON DEC 20
+Tetris Friendlies Revolution - December 27-28
 
 # Gauntlet Abbreviations
 AC   - Aux Chords
